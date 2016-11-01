@@ -64,7 +64,7 @@
     <color name="conversation_edge_effect">#9d9d9d</color>
     <color name="compose_message_send_color">@color/primary_color</color>
     <color name="compose_message_send_color_pressed">#999999</color>
-    <color name="message_bubble_color_outgoing">@*android:color/material_grey_900</color>
+    <color name="message_bubble_color_outgoing">#ff1976D2</color>
     <color name="message_error_bubble_color_incoming">#444444</color>
     <color name="message_audio_button_color_incoming">#ffffffff</color>
     <color name="message_bubble_color_selected">#8BC34A</color>
@@ -115,7 +115,7 @@
     <color name="notification_secondary_text">#FFFFFF</color>
     <color name="notification_tertiary_text">#FFFFFF</color>
     <color name="wearable_notification_participants_count">#a2a2a2</color>
-    <color name="notification_accent_color">@color/primary_color</color>
+    <color name="notification_accent_color">#ff1976D2</color>
     <color name="notification_warning_color">#ff0000</color>
     <color name="notification_subject_color">#99aaaaaa</color>
 
