@@ -18,5 +18,7 @@
 
     <!-- Swipe to delete -->
     <string name="swipe_deletes_conversation_text">Swipe deletes conversation</string>
+    
+    <string name="shortcuts_compose_new">New message</string>
 
 </resources>
